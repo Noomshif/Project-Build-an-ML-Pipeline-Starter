@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4396cb8d3d9042b09830431949467b2f/artifacts
+end_time: 1713411130241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4396cb8d3d9042b09830431949467b2f
+run_name: silent-zebra-652
+run_uuid: 4396cb8d3d9042b09830431949467b2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713411127364
+status: 4
+tags: []
+user_id: emily

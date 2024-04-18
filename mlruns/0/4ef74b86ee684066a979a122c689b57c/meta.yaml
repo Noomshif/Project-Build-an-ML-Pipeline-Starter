@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4ef74b86ee684066a979a122c689b57c/artifacts
+end_time: 1713407847808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ef74b86ee684066a979a122c689b57c
+run_name: angry-moose-18
+run_uuid: 4ef74b86ee684066a979a122c689b57c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713407829510
+status: 3
+tags: []
+user_id: emily

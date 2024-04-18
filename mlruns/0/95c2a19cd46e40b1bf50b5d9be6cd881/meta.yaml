@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95c2a19cd46e40b1bf50b5d9be6cd881/artifacts
+end_time: 1713411482646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95c2a19cd46e40b1bf50b5d9be6cd881
+run_name: big-mole-621
+run_uuid: 95c2a19cd46e40b1bf50b5d9be6cd881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713411465621
+status: 3
+tags: []
+user_id: emily

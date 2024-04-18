@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/outputs/2024-04-17/21-42-28/mlruns/0/fb73090de1044f69a271226b56cf7b07/artifacts
+end_time: 1713408159292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb73090de1044f69a271226b56cf7b07
+run_name: abundant-sheep-384
+run_uuid: fb73090de1044f69a271226b56cf7b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713408150175
+status: 3
+tags: []
+user_id: emily

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aec2cdbc48d841f0b15333bc524067d5/artifacts
+end_time: 1713407568062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aec2cdbc48d841f0b15333bc524067d5
+run_name: luxuriant-stag-257
+run_uuid: aec2cdbc48d841f0b15333bc524067d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713407553513
+status: 4
+tags: []
+user_id: emily

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c59624d61b754c5d8871f76bd1c21914/artifacts
+end_time: 1713411306250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c59624d61b754c5d8871f76bd1c21914
+run_name: fun-conch-279
+run_uuid: c59624d61b754c5d8871f76bd1c21914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713411305591
+status: 4
+tags: []
+user_id: emily

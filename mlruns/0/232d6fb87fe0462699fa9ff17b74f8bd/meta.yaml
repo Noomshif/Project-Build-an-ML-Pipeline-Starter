@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/232d6fb87fe0462699fa9ff17b74f8bd/artifacts
+end_time: 1713411130066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 232d6fb87fe0462699fa9ff17b74f8bd
+run_name: abundant-grub-867
+run_uuid: 232d6fb87fe0462699fa9ff17b74f8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713411129420
+status: 4
+tags: []
+user_id: emily

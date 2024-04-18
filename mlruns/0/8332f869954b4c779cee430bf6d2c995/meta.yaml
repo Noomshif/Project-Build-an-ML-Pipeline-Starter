@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8332f869954b4c779cee430bf6d2c995/artifacts
+end_time: 1713407847917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8332f869954b4c779cee430bf6d2c995
+run_name: dazzling-smelt-800
+run_uuid: 8332f869954b4c779cee430bf6d2c995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713407825719
+status: 3
+tags: []
+user_id: emily

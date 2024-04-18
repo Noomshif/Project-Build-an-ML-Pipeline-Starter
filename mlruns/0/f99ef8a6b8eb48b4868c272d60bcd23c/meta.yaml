@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f99ef8a6b8eb48b4868c272d60bcd23c/artifacts
+end_time: 1713411419602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f99ef8a6b8eb48b4868c272d60bcd23c
+run_name: entertaining-eel-71
+run_uuid: f99ef8a6b8eb48b4868c272d60bcd23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713411416692
+status: 4
+tags: []
+user_id: emily

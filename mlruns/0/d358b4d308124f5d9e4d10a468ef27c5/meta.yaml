@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d358b4d308124f5d9e4d10a468ef27c5/artifacts
+end_time: 1713406951651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d358b4d308124f5d9e4d10a468ef27c5
+run_name: able-grub-175
+run_uuid: d358b4d308124f5d9e4d10a468ef27c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713406942253
+status: 4
+tags: []
+user_id: emily

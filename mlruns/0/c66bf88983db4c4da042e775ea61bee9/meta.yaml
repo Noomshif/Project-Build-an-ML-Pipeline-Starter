@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c66bf88983db4c4da042e775ea61bee9/artifacts
+end_time: 1713407568233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c66bf88983db4c4da042e775ea61bee9
+run_name: fortunate-mole-974
+run_uuid: c66bf88983db4c4da042e775ea61bee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713407549636
+status: 4
+tags: []
+user_id: emily

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/feaa998093484a359736db690591121d/artifacts
+end_time: 1713554285645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: feaa998093484a359736db690591121d
+run_name: amusing-lynx-39
+run_uuid: feaa998093484a359736db690591121d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713554277997
+status: 4
+tags: []
+user_id: emily

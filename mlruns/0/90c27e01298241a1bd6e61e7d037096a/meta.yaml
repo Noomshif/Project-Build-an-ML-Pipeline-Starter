@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/90c27e01298241a1bd6e61e7d037096a/artifacts
+end_time: 1713488672349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90c27e01298241a1bd6e61e7d037096a
+run_name: brawny-mouse-299
+run_uuid: 90c27e01298241a1bd6e61e7d037096a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713488609075
+status: 3
+tags: []
+user_id: emily

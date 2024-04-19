@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/808aae3beea941308ed4392a05d05a70/artifacts
+end_time: 1713488672238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 808aae3beea941308ed4392a05d05a70
+run_name: defiant-ray-148
+run_uuid: 808aae3beea941308ed4392a05d05a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713488612775
+status: 3
+tags: []
+user_id: emily

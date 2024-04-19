@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a62876d67d5241b88f8b271d8a458b47/artifacts
+end_time: 1713555086378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a62876d67d5241b88f8b271d8a458b47
+run_name: receptive-lynx-807
+run_uuid: a62876d67d5241b88f8b271d8a458b47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713555079007
+status: 4
+tags: []
+user_id: emily

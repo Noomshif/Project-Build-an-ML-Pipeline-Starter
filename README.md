@@ -143,7 +143,8 @@ If you are ok with that list, execute this command to clean them up:
 ```
 > for e in $(conda info --envs | grep mlflow | cut -f1 -d" "); do conda uninstall --name $e --all -y;done
 ```
-
+github project link: https://github.com/Noomshif/Project-Build-an-ML-Pipeline-Starter
+wandb project link: https://wandb.ai/emolitor/nyc_airbnb
 This will iterate over all the environments created by `mlflow` and remove them.
 
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/60ecf40725aa499eaf3ee9cd3ddcd7ad/artifacts
+end_time: 1713495801480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ecf40725aa499eaf3ee9cd3ddcd7ad
+run_name: powerful-worm-514
+run_uuid: 60ecf40725aa499eaf3ee9cd3ddcd7ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495792138
+status: 3
+tags: []
+user_id: emily

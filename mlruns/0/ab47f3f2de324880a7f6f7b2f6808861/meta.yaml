@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab47f3f2de324880a7f6f7b2f6808861/artifacts
+end_time: 1713496211504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab47f3f2de324880a7f6f7b2f6808861
+run_name: indecisive-koi-579
+run_uuid: ab47f3f2de324880a7f6f7b2f6808861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495845070
+status: 3
+tags: []
+user_id: emily

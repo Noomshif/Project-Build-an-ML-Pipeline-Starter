@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d31c8eab53c04bafb9f8f8352f68c29c/artifacts
+end_time: 1713496227326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d31c8eab53c04bafb9f8f8352f68c29c
+run_name: valuable-ox-2
+run_uuid: d31c8eab53c04bafb9f8f8352f68c29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495788347
+status: 3
+tags: []
+user_id: emily

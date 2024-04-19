@@ -1,0 +1,13 @@
+2024-04-18 19:50:16,871 INFO    MainThread:80916 [wandb_setup.py:_flush():68] Configure stats pid to 80916
+2024-04-18 19:50:16,871 INFO    MainThread:80916 [wandb_setup.py:_flush():68] Loading settings from /Users/emily/.config/wandb/settings
+2024-04-18 19:50:16,871 INFO    MainThread:80916 [wandb_setup.py:_flush():68] Loading settings from /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/settings
+2024-04-18 19:50:16,871 INFO    MainThread:80916 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'project': 'nyc_airbnb', '_require_service': 'True', 'run_group': 'development'}
+2024-04-18 19:50:16,871 WARNING MainThread:80916 [wandb_setup.py:_flush():68] Could not save program above cwd: /opt/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-04-18 19:50:16,871 INFO    MainThread:80916 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/opt/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-04-18 19:50:16,871 INFO    MainThread:80916 [wandb_init.py:_log_setup():478] Logging user logs to /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240418_195016-u7in9dqb/logs/debug.log
+2024-04-18 19:50:16,871 INFO    MainThread:80916 [wandb_init.py:_log_setup():479] Logging internal logs to /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/data_check/wandb/run-20240418_195016-u7in9dqb/logs/debug-internal.log
+2024-04-18 19:50:16,872 INFO    MainThread:80916 [wandb_init.py:init():518] calling init triggers
+2024-04-18 19:50:16,872 INFO    MainThread:80916 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-04-18 19:50:16,872 INFO    MainThread:80916 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-04-18 19:50:20,836 WARNING MsgRouterThr:80916 [router.py:message_loop():77] message_loop has been closed

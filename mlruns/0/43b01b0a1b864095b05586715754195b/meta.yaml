@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/43b01b0a1b864095b05586715754195b/artifacts
+end_time: 1713486669789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43b01b0a1b864095b05586715754195b
+run_name: placid-gnu-817
+run_uuid: 43b01b0a1b864095b05586715754195b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713486658026
+status: 3
+tags: []
+user_id: emily

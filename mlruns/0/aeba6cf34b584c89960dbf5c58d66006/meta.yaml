@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aeba6cf34b584c89960dbf5c58d66006/artifacts
+end_time: 1713554938508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeba6cf34b584c89960dbf5c58d66006
+run_name: intrigued-goose-226
+run_uuid: aeba6cf34b584c89960dbf5c58d66006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713554928806
+status: 3
+tags: []
+user_id: emily

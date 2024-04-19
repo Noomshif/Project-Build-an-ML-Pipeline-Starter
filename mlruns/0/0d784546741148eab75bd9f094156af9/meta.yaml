@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0d784546741148eab75bd9f094156af9/artifacts
+end_time: 1713554954830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d784546741148eab75bd9f094156af9
+run_name: peaceful-fly-427
+run_uuid: 0d784546741148eab75bd9f094156af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713554947185
+status: 4
+tags: []
+user_id: emily

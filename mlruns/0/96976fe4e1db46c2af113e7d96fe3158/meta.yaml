@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/96976fe4e1db46c2af113e7d96fe3158/artifacts
+end_time: 1713554955004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96976fe4e1db46c2af113e7d96fe3158
+run_name: blushing-flea-827
+run_uuid: 96976fe4e1db46c2af113e7d96fe3158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713554925007
+status: 4
+tags: []
+user_id: emily

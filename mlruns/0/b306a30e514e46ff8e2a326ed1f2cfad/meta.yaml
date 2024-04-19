@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b306a30e514e46ff8e2a326ed1f2cfad/artifacts
+end_time: 1713554947168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b306a30e514e46ff8e2a326ed1f2cfad
+run_name: dapper-fly-954
+run_uuid: b306a30e514e46ff8e2a326ed1f2cfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713554938527
+status: 3
+tags: []
+user_id: emily

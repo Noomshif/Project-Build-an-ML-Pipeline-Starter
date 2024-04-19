@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/136f817e8b81495ab838903a943a3f49/artifacts
+end_time: 1713555504098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 136f817e8b81495ab838903a943a3f49
+run_name: selective-toad-686
+run_uuid: 136f817e8b81495ab838903a943a3f49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713555491448
+status: 3
+tags: []
+user_id: emily

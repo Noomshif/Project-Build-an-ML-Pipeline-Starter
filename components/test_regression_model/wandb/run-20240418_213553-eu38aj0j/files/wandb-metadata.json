@@ -1,0 +1,51 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-04-19T02:35:53.903493",
+    "startedAt": "2024-04-19T02:35:53.316711",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "https://github.com/Noomshif/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "0f1966c4a902c4349d55db52fef8520be8e05ede"
+    },
+    "email": "emolito@wgu.edu",
+    "root": "/Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Emilys-MBP.localdomain",
+    "username": "emily",
+    "executable": "/opt/miniconda3/envs/mlflow-c783dc507c6bedc1b58f0a87f952c3c2d2f33013/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3204,
+        "min": 600,
+        "max": 3204
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3204,
+            "min": 600,
+            "max": 3204
+        }
+    ],
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 9.536155700683594
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

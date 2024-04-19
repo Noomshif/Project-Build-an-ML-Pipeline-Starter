@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d6d5d35fab434a97a902897900d7ce83/artifacts
+end_time: 1713494164068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6d5d35fab434a97a902897900d7ce83
+run_name: nebulous-hen-621
+run_uuid: d6d5d35fab434a97a902897900d7ce83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713494111624
+status: 3
+tags: []
+user_id: emily

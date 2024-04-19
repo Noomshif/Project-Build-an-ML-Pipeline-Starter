@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/26bc7db517094065a9b4df05110306c5/artifacts
+end_time: 1713493906644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26bc7db517094065a9b4df05110306c5
+run_name: stately-shrike-670
+run_uuid: 26bc7db517094065a9b4df05110306c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713493903665
+status: 4
+tags: []
+user_id: emily

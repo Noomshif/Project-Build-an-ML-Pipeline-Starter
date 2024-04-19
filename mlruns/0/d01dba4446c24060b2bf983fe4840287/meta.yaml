@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d01dba4446c24060b2bf983fe4840287/artifacts
+end_time: 1713495608171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d01dba4446c24060b2bf983fe4840287
+run_name: amazing-finch-825
+run_uuid: d01dba4446c24060b2bf983fe4840287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495596768
+status: 3
+tags: []
+user_id: emily

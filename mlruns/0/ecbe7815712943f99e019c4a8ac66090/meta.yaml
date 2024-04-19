@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ecbe7815712943f99e019c4a8ac66090/artifacts
+end_time: 1713495615645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecbe7815712943f99e019c4a8ac66090
+run_name: silent-shad-453
+run_uuid: ecbe7815712943f99e019c4a8ac66090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495608188
+status: 4
+tags: []
+user_id: emily

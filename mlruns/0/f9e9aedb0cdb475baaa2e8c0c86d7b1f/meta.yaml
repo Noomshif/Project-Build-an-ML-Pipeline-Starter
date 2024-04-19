@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f9e9aedb0cdb475baaa2e8c0c86d7b1f/artifacts
+end_time: 1713495374971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9e9aedb0cdb475baaa2e8c0c86d7b1f
+run_name: sincere-fox-703
+run_uuid: f9e9aedb0cdb475baaa2e8c0c86d7b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495367470
+status: 4
+tags: []
+user_id: emily

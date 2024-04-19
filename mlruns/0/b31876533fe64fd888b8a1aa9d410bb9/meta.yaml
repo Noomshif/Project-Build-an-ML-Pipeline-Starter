@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b31876533fe64fd888b8a1aa9d410bb9/artifacts
+end_time: 1713495375167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b31876533fe64fd888b8a1aa9d410bb9
+run_name: zealous-auk-140
+run_uuid: b31876533fe64fd888b8a1aa9d410bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495345994
+status: 4
+tags: []
+user_id: emily

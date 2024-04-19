@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fcfeda8190044d83947a48160d224401/artifacts
+end_time: 1713495615824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcfeda8190044d83947a48160d224401
+run_name: bustling-cat-598
+run_uuid: fcfeda8190044d83947a48160d224401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495583375
+status: 4
+tags: []
+user_id: emily

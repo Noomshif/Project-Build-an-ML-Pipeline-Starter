@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/107d4f1496144aafb91b603d56e0a87a/artifacts
+end_time: 1713495281222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 107d4f1496144aafb91b603d56e0a87a
+run_name: secretive-carp-772
+run_uuid: 107d4f1496144aafb91b603d56e0a87a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495273650
+status: 4
+tags: []
+user_id: emily

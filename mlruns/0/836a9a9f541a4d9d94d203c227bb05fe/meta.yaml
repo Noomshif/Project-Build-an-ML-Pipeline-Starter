@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/836a9a9f541a4d9d94d203c227bb05fe/artifacts
+end_time: 1713495367451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 836a9a9f541a4d9d94d203c227bb05fe
+run_name: intelligent-eel-723
+run_uuid: 836a9a9f541a4d9d94d203c227bb05fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495358904
+status: 3
+tags: []
+user_id: emily

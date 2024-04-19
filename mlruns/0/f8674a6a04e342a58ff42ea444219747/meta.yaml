@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f8674a6a04e342a58ff42ea444219747/artifacts
+end_time: 1713495273632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8674a6a04e342a58ff42ea444219747
+run_name: capable-shad-408
+run_uuid: f8674a6a04e342a58ff42ea444219747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713495261002
+status: 3
+tags: []
+user_id: emily

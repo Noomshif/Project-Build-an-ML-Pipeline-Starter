@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/77eceb38e6da44d08065501bd61036fc/artifacts
+end_time: 1713554285820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77eceb38e6da44d08065501bd61036fc
+run_name: wise-ram-689
+run_uuid: 77eceb38e6da44d08065501bd61036fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713554252325
+status: 4
+tags: []
+user_id: emily

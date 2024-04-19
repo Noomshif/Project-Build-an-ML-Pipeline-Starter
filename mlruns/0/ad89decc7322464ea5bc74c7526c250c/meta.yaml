@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ad89decc7322464ea5bc74c7526c250c/artifacts
+end_time: 1713554277981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad89decc7322464ea5bc74c7526c250c
+run_name: unruly-duck-549
+run_uuid: ad89decc7322464ea5bc74c7526c250c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713554267415
+status: 3
+tags: []
+user_id: emily

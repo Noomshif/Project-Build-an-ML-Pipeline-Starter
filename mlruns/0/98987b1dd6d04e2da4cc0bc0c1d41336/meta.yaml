@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/98987b1dd6d04e2da4cc0bc0c1d41336/artifacts
+end_time: 1713492552292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98987b1dd6d04e2da4cc0bc0c1d41336
+run_name: upset-moose-457
+run_uuid: 98987b1dd6d04e2da4cc0bc0c1d41336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713492475368
+status: 3
+tags: []
+user_id: emily

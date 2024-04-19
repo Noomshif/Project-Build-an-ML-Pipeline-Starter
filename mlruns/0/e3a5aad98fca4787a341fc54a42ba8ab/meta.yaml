@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e3a5aad98fca4787a341fc54a42ba8ab/artifacts
+end_time: 1713492552416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3a5aad98fca4787a341fc54a42ba8ab
+run_name: caring-mouse-346
+run_uuid: e3a5aad98fca4787a341fc54a42ba8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713492264026
+status: 3
+tags: []
+user_id: emily

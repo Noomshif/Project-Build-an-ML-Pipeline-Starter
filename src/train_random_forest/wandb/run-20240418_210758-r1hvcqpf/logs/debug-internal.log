@@ -1,0 +1,233 @@
+2024-04-18 21:07:58,048 INFO    StreamThr :83586 [internal.py:wandb_internal():87] W&B internal server running at pid: 83586, started at: 2024-04-18 21:07:58.047440
+2024-04-18 21:07:58,048 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status
+2024-04-18 21:07:58,049 INFO    WriterThread:83586 [datastore.py:open_for_write():85] open: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/run-r1hvcqpf.wandb
+2024-04-18 21:07:58,050 DEBUG   SenderThread:83586 [sender.py:send():334] send: header
+2024-04-18 21:07:58,073 DEBUG   SenderThread:83586 [sender.py:send():334] send: run
+2024-04-18 21:07:58,370 INFO    SenderThread:83586 [dir_watcher.py:__init__():216] watching files in: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files
+2024-04-18 21:07:58,371 INFO    SenderThread:83586 [sender.py:_start_run_threads():1065] run started: r1hvcqpf with start time 1713492478.046476
+2024-04-18 21:07:58,371 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: summary_record
+2024-04-18 21:07:58,371 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-04-18 21:07:58,374 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: check_version
+2024-04-18 21:07:58,374 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: check_version
+2024-04-18 21:07:58,571 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: run_start
+2024-04-18 21:07:58,589 DEBUG   HandlerThread:83586 [system_info.py:__init__():31] System info init
+2024-04-18 21:07:58,589 DEBUG   HandlerThread:83586 [system_info.py:__init__():46] System info init done
+2024-04-18 21:07:58,589 INFO    HandlerThread:83586 [system_monitor.py:start():151] Starting system monitor
+2024-04-18 21:07:58,590 INFO    SystemMonitor:83586 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-04-18 21:07:58,590 INFO    HandlerThread:83586 [system_monitor.py:probe():172] Collecting system info
+2024-04-18 21:07:58,590 INFO    SystemMonitor:83586 [interfaces.py:start():168] Started cpu
+2024-04-18 21:07:58,592 DEBUG   HandlerThread:83586 [system_info.py:probe():195] Probing system
+2024-04-18 21:07:58,592 INFO    SystemMonitor:83586 [interfaces.py:start():168] Started disk
+2024-04-18 21:07:58,595 INFO    SystemMonitor:83586 [interfaces.py:start():168] Started gpuapple
+2024-04-18 21:07:58,599 INFO    SystemMonitor:83586 [interfaces.py:start():168] Started memory
+2024-04-18 21:07:58,601 INFO    SystemMonitor:83586 [interfaces.py:start():168] Started network
+2024-04-18 21:07:58,604 DEBUG   HandlerThread:83586 [system_info.py:_probe_git():180] Probing git
+2024-04-18 21:07:58,632 DEBUG   HandlerThread:83586 [system_info.py:_probe_git():188] Probing git done
+2024-04-18 21:07:58,633 DEBUG   HandlerThread:83586 [system_info.py:probe():241] Probing system done
+2024-04-18 21:07:58,633 DEBUG   HandlerThread:83586 [system_monitor.py:probe():181] {'os': 'macOS-14.4.1-arm64-arm-64bit', 'python': '3.9.19', 'heartbeatAt': '2024-04-19T02:07:58.592623', 'startedAt': '2024-04-19T02:07:58.037173', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/multirun/2024-04-18/21-04-25/3/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'random_forest_export'), 'state': 'running', 'program': '/Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/Noomshif/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '20c4ca1db0473434a8fb396cfc62c6ce44e35b2d'}, 'email': 'emolito@wgu.edu', 'root': '/Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter', 'host': 'Emilys-MBP.localdomain', 'username': 'emily', 'executable': '/opt/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python', 'cpu_count': 8, 'cpu_count_logical': 8, 'cpu_freq': {'current': 3204, 'min': 600, 'max': 3204}, 'cpu_freq_per_core': [{'current': 3204, 'min': 600, 'max': 3204}], 'disk': {'total': 460.4317207336426, 'used': 9.536155700683594}, 'gpuapple': {'type': 'arm', 'vendor': 'Apple'}, 'memory': {'total': 16.0}}
+2024-04-18 21:07:58,633 INFO    HandlerThread:83586 [system_monitor.py:probe():182] Finished collecting system info
+2024-04-18 21:07:58,633 INFO    HandlerThread:83586 [system_monitor.py:probe():185] Publishing system info
+2024-04-18 21:07:58,633 DEBUG   HandlerThread:83586 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-04-18 21:07:58,633 DEBUG   HandlerThread:83586 [system_info.py:_save_pip():67] Saving pip packages done
+2024-04-18 21:07:58,633 DEBUG   HandlerThread:83586 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-04-18 21:07:59,328 DEBUG   HandlerThread:83586 [system_info.py:_save_conda():86] Saving conda packages done
+2024-04-18 21:07:59,329 INFO    HandlerThread:83586 [system_monitor.py:probe():187] Finished publishing system info
+2024-04-18 21:07:59,331 DEBUG   SenderThread:83586 [sender.py:send():334] send: files
+2024-04-18 21:07:59,331 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-04-18 21:07:59,334 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: stop_status
+2024-04-18 21:07:59,334 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: stop_status
+2024-04-18 21:07:59,373 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/wandb-metadata.json
+2024-04-18 21:07:59,373 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/requirements.txt
+2024-04-18 21:07:59,373 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/wandb-summary.json
+2024-04-18 21:07:59,373 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/conda-environment.yaml
+2024-04-18 21:07:59,508 DEBUG   SenderThread:83586 [sender.py:send():334] send: telemetry
+2024-04-18 21:07:59,509 DEBUG   SenderThread:83586 [sender.py:send():334] send: config
+2024-04-18 21:07:59,509 DEBUG   SenderThread:83586 [sender.py:send():334] send: config
+2024-04-18 21:07:59,685 DEBUG   SenderThread:83586 [sender.py:send():334] send: use_artifact
+2024-04-18 21:07:59,760 INFO    Thread-16 :83586 [upload_job.py:push():143] Uploaded file /var/folders/kc/ltkbv4sn38n7btcjlp445qrc0000gn/T/tmp7ohgt43zwandb/in0v3alp-wandb-metadata.json
+2024-04-18 21:08:00,374 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/output.log
+2024-04-18 21:08:02,383 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/output.log
+2024-04-18 21:08:04,043 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:09,062 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:14,083 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:14,346 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:19,099 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:19,361 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:24,118 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:24,377 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:29,144 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:29,389 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:29,520 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/config.yaml
+2024-04-18 21:08:34,336 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:34,407 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:39,352 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:39,431 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:44,370 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:44,444 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:49,392 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:49,461 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:54,407 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:08:54,478 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:08:56,640 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/output.log
+2024-04-18 21:08:57,000 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: log_artifact
+2024-04-18 21:08:57,001 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: log_artifact
+2024-04-18 21:08:57,444 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: partial_history
+2024-04-18 21:08:57,647 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/media/images/feature_importance_0_494cb377cc38bacc9dac.png
+2024-04-18 21:08:57,648 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/media/images
+2024-04-18 21:08:57,649 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/media
+2024-04-18 21:08:57,788 INFO    Thread-19 :83586 [upload_job.py:push():98] Skipped uploading /Users/emily/Library/Application Support/wandb/artifacts/staging/tmp5s5v3mur
+2024-04-18 21:08:57,789 INFO    Thread-20 :83586 [upload_job.py:push():98] Skipped uploading /Users/emily/Library/Application Support/wandb/artifacts/staging/tmpdgb5y37n
+2024-04-18 21:08:57,789 INFO    Thread-22 :83586 [upload_job.py:push():98] Skipped uploading /Users/emily/Library/Application Support/wandb/artifacts/staging/tmpsqluj2v7
+2024-04-18 21:08:57,789 INFO    Thread-23 :83586 [upload_job.py:push():98] Skipped uploading /Users/emily/Library/Application Support/wandb/artifacts/staging/tmpirmt858q
+2024-04-18 21:08:58,075 INFO    Thread-18 :83586 [upload_job.py:push():101] Uploaded file /Users/emily/Library/Application Support/wandb/artifacts/staging/tmp0tqr0qn7
+2024-04-18 21:08:58,171 INFO    Thread-24 :83586 [upload_job.py:push():143] Uploaded file /var/folders/kc/ltkbv4sn38n7btcjlp445qrc0000gn/T/tmp7ohgt43zwandb/wzysqizo-media/images/feature_importance_0_494cb377cc38bacc9dac.png
+2024-04-18 21:08:58,454 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: poll_exit
+2024-04-18 21:08:58,605 DEBUG   SystemMonitor:83586 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-04-18 21:08:58,651 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/output.log
+2024-04-18 21:09:03,474 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:09:06,280 INFO    Thread-21 :83586 [upload_job.py:push():101] Uploaded file /Users/emily/Library/Application Support/wandb/artifacts/staging/tmpixes2w82
+2024-04-18 21:09:06,998 INFO    SenderThread:83586 [sender.py:send_request_log_artifact():1379] logged artifact random_forest_export - {'id': 'QXJ0aWZhY3Q6ODAyMTI1NzIx', 'digest': '4f13d660eee0dfeef50700db38d51b15', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NDIxMzQ1Mg==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODAyMTI0NjAw', 'versionIndex': 2}}, 'version': 'latest'}
+2024-04-18 21:09:06,999 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: summary_record
+2024-04-18 21:09:06,999 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:09:07,000 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-04-18 21:09:07,001 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: summary_record
+2024-04-18 21:09:07,001 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-04-18 21:09:07,002 DEBUG   SenderThread:83586 [sender.py:send():334] send: files
+2024-04-18 21:09:07,002 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file media/images/feature_importance_0_494cb377cc38bacc9dac.png with policy now
+2024-04-18 21:09:07,002 DEBUG   SenderThread:83586 [sender.py:send():334] send: history
+2024-04-18 21:09:07,003 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: summary_record
+2024-04-18 21:09:07,004 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-04-18 21:09:07,004 DEBUG   SenderThread:83586 [sender.py:send():334] send: exit
+2024-04-18 21:09:07,004 INFO    SenderThread:83586 [sender.py:send_exit():557] handling exit code: 0
+2024-04-18 21:09:07,004 INFO    SenderThread:83586 [sender.py:send_exit():559] handling runtime: 58
+2024-04-18 21:09:07,005 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-04-18 21:09:07,005 INFO    SenderThread:83586 [sender.py:send_exit():565] send defer
+2024-04-18 21:09:07,005 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: poll_exit
+2024-04-18 21:09:07,005 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,006 DEBUG   SenderThread:83586 [sender.py:send():334] send: telemetry
+2024-04-18 21:09:07,006 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 0
+2024-04-18 21:09:07,006 DEBUG   SenderThread:83586 [sender.py:send():334] send: stats
+2024-04-18 21:09:07,007 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,007 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-04-18 21:09:07,012 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 1
+2024-04-18 21:09:07,012 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,012 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 1
+2024-04-18 21:09:07,013 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,014 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-04-18 21:09:07,014 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 2
+2024-04-18 21:09:07,014 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,014 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 2
+2024-04-18 21:09:07,014 INFO    HandlerThread:83586 [system_monitor.py:finish():161] Stopping system monitor
+2024-04-18 21:09:07,032 DEBUG   SystemMonitor:83586 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-04-18 21:09:07,032 DEBUG   SystemMonitor:83586 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-04-18 21:09:07,033 INFO    HandlerThread:83586 [interfaces.py:finish():175] Joined cpu
+2024-04-18 21:09:07,034 INFO    HandlerThread:83586 [interfaces.py:finish():175] Joined disk
+2024-04-18 21:09:07,034 INFO    HandlerThread:83586 [interfaces.py:finish():175] Joined gpuapple
+2024-04-18 21:09:07,034 INFO    HandlerThread:83586 [interfaces.py:finish():175] Joined memory
+2024-04-18 21:09:07,034 INFO    HandlerThread:83586 [interfaces.py:finish():175] Joined network
+2024-04-18 21:09:07,035 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,035 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-04-18 21:09:07,035 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 3
+2024-04-18 21:09:07,035 DEBUG   SenderThread:83586 [sender.py:send():334] send: stats
+2024-04-18 21:09:07,035 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,035 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 3
+2024-04-18 21:09:07,036 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,036 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-04-18 21:09:07,036 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 4
+2024-04-18 21:09:07,036 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,036 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 4
+2024-04-18 21:09:07,036 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,036 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-04-18 21:09:07,036 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 5
+2024-04-18 21:09:07,037 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,037 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 5
+2024-04-18 21:09:07,037 DEBUG   SenderThread:83586 [sender.py:send():334] send: summary
+2024-04-18 21:09:07,038 INFO    SenderThread:83586 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-04-18 21:09:07,038 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,038 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-04-18 21:09:07,038 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 6
+2024-04-18 21:09:07,039 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,039 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 6
+2024-04-18 21:09:07,039 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,039 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-04-18 21:09:07,046 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: status_report
+2024-04-18 21:09:07,200 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 7
+2024-04-18 21:09:07,200 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:07,200 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 7
+2024-04-18 21:09:07,201 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:07,201 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 7
+2024-04-18 21:09:07,623 INFO    Thread-25 :83586 [upload_job.py:push():143] Uploaded file /var/folders/kc/ltkbv4sn38n7btcjlp445qrc0000gn/T/tmp7ohgt43zwandb/hrbtemra-media/images/feature_importance_0_494cb377cc38bacc9dac.png
+2024-04-18 21:09:07,690 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/config.yaml
+2024-04-18 21:09:07,690 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/wandb-summary.json
+2024-04-18 21:09:08,198 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 8
+2024-04-18 21:09:08,198 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:08,199 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 8
+2024-04-18 21:09:08,199 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:08,199 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 8
+2024-04-18 21:09:08,211 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 9
+2024-04-18 21:09:08,212 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:08,212 DEBUG   SenderThread:83586 [sender.py:send():334] send: artifact
+2024-04-18 21:09:08,212 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 9
+2024-04-18 21:09:08,490 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: keepalive
+2024-04-18 21:09:08,694 INFO    Thread-13 :83586 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/output.log
+2024-04-18 21:09:08,851 INFO    SenderThread:83586 [sender.py:send_artifact():1415] sent artifact job-https___github.com_Noomshif_Project-Build-an-ML-Pipeline-Starter.git_src_train_random_forest_run.py - {'id': 'QXJ0aWZhY3Q6ODAyMTIzNDEx', 'digest': 'aff554366ccfd971b710da45b54beda4', 'state': 'COMMITTED', 'aliases': [{'artifactCollectionName': 'job-https___github.com_Noomshif_Project-Build-an-ML-Pipeline-Starter.git_src_train_random_forest_run.py', 'alias': 'v0'}], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NDIxMzQ1NA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6ODAyMTIzNDEx', 'versionIndex': 0}}, 'version': 'v0'}
+2024-04-18 21:09:08,852 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:08,852 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 9
+2024-04-18 21:09:08,852 INFO    SenderThread:83586 [dir_watcher.py:finish():362] shutting down directory watcher
+2024-04-18 21:09:09,698 INFO    SenderThread:83586 [dir_watcher.py:finish():392] scan: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files
+2024-04-18 21:09:09,698 INFO    SenderThread:83586 [dir_watcher.py:finish():406] scan save: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/requirements.txt requirements.txt
+2024-04-18 21:09:09,698 INFO    SenderThread:83586 [dir_watcher.py:finish():406] scan save: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/output.log output.log
+2024-04-18 21:09:09,699 INFO    SenderThread:83586 [dir_watcher.py:finish():406] scan save: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/config.yaml config.yaml
+2024-04-18 21:09:09,703 INFO    SenderThread:83586 [dir_watcher.py:finish():406] scan save: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/wandb-summary.json wandb-summary.json
+2024-04-18 21:09:09,704 INFO    SenderThread:83586 [dir_watcher.py:finish():406] scan save: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/conda-environment.yaml conda-environment.yaml
+2024-04-18 21:09:09,708 INFO    SenderThread:83586 [dir_watcher.py:finish():406] scan save: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/wandb-metadata.json wandb-metadata.json
+2024-04-18 21:09:09,722 INFO    SenderThread:83586 [dir_watcher.py:finish():406] scan save: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/media/images/feature_importance_0_494cb377cc38bacc9dac.png media/images/feature_importance_0_494cb377cc38bacc9dac.png
+2024-04-18 21:09:09,722 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 10
+2024-04-18 21:09:09,723 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:09,723 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 10
+2024-04-18 21:09:09,724 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:09,724 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 10
+2024-04-18 21:09:09,724 INFO    SenderThread:83586 [file_pusher.py:finish():160] shutting down file pusher
+2024-04-18 21:09:10,109 INFO    Thread-30 :83586 [upload_job.py:push():143] Uploaded file /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/conda-environment.yaml
+2024-04-18 21:09:10,179 INFO    Thread-28 :83586 [upload_job.py:push():143] Uploaded file /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/config.yaml
+2024-04-18 21:09:10,181 INFO    Thread-29 :83586 [upload_job.py:push():143] Uploaded file /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/wandb-summary.json
+2024-04-18 21:09:10,183 INFO    Thread-26 :83586 [upload_job.py:push():143] Uploaded file /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/requirements.txt
+2024-04-18 21:09:10,183 INFO    Thread-27 :83586 [upload_job.py:push():143] Uploaded file /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/files/output.log
+2024-04-18 21:09:10,385 INFO    Thread-12 :83586 [sender.py:transition_state():585] send defer: 11
+2024-04-18 21:09:10,386 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:10,386 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 11
+2024-04-18 21:09:10,387 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:10,387 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 11
+2024-04-18 21:09:10,387 INFO    SenderThread:83586 [file_pusher.py:join():165] waiting for file pusher
+2024-04-18 21:09:10,387 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 12
+2024-04-18 21:09:10,387 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:10,387 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 12
+2024-04-18 21:09:10,387 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:10,387 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 12
+2024-04-18 21:09:10,586 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 13
+2024-04-18 21:09:10,587 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:10,587 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 13
+2024-04-18 21:09:10,587 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:10,587 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 13
+2024-04-18 21:09:10,587 INFO    SenderThread:83586 [sender.py:transition_state():585] send defer: 14
+2024-04-18 21:09:10,588 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: defer
+2024-04-18 21:09:10,588 DEBUG   SenderThread:83586 [sender.py:send():334] send: final
+2024-04-18 21:09:10,588 INFO    HandlerThread:83586 [handler.py:handle_request_defer():170] handle defer: 14
+2024-04-18 21:09:10,588 DEBUG   SenderThread:83586 [sender.py:send():334] send: footer
+2024-04-18 21:09:10,588 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: defer
+2024-04-18 21:09:10,588 INFO    SenderThread:83586 [sender.py:send_request_defer():581] handle sender defer: 14
+2024-04-18 21:09:10,589 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: poll_exit
+2024-04-18 21:09:10,589 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: server_info
+2024-04-18 21:09:10,589 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: poll_exit
+2024-04-18 21:09:10,589 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: get_summary
+2024-04-18 21:09:10,590 DEBUG   SenderThread:83586 [sender.py:send_request():361] send_request: server_info
+2024-04-18 21:09:10,590 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: sampled_history
+2024-04-18 21:09:10,744 INFO    MainThread:83586 [wandb_run.py:_footer_history_summary_info():3427] rendering history
+2024-04-18 21:09:10,744 INFO    MainThread:83586 [wandb_run.py:_footer_history_summary_info():3459] rendering summary
+2024-04-18 21:09:10,745 INFO    MainThread:83586 [wandb_run.py:_footer_sync_info():3383] logging synced files
+2024-04-18 21:09:10,745 DEBUG   HandlerThread:83586 [handler.py:handle_request():144] handle_request: shutdown
+2024-04-18 21:09:10,745 INFO    HandlerThread:83586 [handler.py:finish():841] shutting down handler
+2024-04-18 21:09:11,593 INFO    WriterThread:83586 [datastore.py:close():299] close: /Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240418_210758-r1hvcqpf/run-r1hvcqpf.wandb
+2024-04-18 21:09:11,746 INFO    SenderThread:83586 [sender.py:finish():1491] shutting down sender
+2024-04-18 21:09:11,746 INFO    SenderThread:83586 [file_pusher.py:finish():160] shutting down file pusher
+2024-04-18 21:09:11,746 INFO    SenderThread:83586 [file_pusher.py:join():165] waiting for file pusher

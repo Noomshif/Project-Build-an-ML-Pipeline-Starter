@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/emily/PycharmProjects/MLpipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5702f0df0d304530b7052166db22ce8e/artifacts
+end_time: 1713492348884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5702f0df0d304530b7052166db22ce8e
+run_name: kindly-chimp-228
+run_uuid: 5702f0df0d304530b7052166db22ce8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713492266254
+status: 3
+tags: []
+user_id: emily
